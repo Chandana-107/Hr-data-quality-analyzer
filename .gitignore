@@ -1,0 +1,27 @@
+__pycache__/
+*.pyc
+.env
+.vscode/
+reports/
+*.xlsx
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Generated reports
+reports/*.xlsx
+
+# IDE
+.vscode/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db

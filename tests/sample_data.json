@@ -1,0 +1,4 @@
+[
+  {"employee_id": "EMP00001", "first_name": "Alice", "last_name": "A", "email": "alice@example.com", "phone": "+911234567890", "date_of_birth": "1990-01-01", "joining_date": "2020-01-01", "department": "Engineering", "department_code": "ENG", "country": "India", "currency": "INR", "salary": 50000, "manager_id": "EMP00000", "employment_status": "active"},
+  {"employee_id": "EMP00002", "first_name": "Bob", "last_name": "B", "email": "bad-email", "phone": "12345", "date_of_birth": "2010-01-01", "joining_date": "2030-01-01", "department": null, "department_code": "XXX", "country": "USA", "currency": "INR", "salary": -100, "manager_id": "EMP00001", "employment_status": "terminated", "termination_date": "2019-12-31"}
+]
